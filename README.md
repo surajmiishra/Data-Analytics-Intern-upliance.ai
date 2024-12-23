@@ -52,5 +52,4 @@ Based on the analysis:
 4. **Improve Session Ratings**:
    - Analyze feedback to enhance user satisfaction during cooking sessions.
 
-## Project Organization
-The project is organized as follows:
+
