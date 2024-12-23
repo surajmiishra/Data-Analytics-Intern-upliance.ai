@@ -1,0 +1,4 @@
+Top Cooking Dishes: {'Spaghetti': 4, 'Grilled Chicken': 4, 'Caesar Salad': 3, 'Pancakes': 2, 'Veggie Burger': 2, 'Oatmeal': 1}
+Top Ordered Dishes: {'Spaghetti': 4, 'Grilled Chicken': 4, 'Caesar Salad': 3, 'Pancakes': 2, 'Veggie Burger': 2, 'Oatmeal': 1}
+Top Revenue Day: 2024-12-01 00:00:00
+Maximum Revenue: 25.0
